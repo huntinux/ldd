@@ -11,4 +11,4 @@ at last:
 ```
 sudo rmmod hello
 ```
-you will see "Goodbye, cruel world\n"
+you will see "Goodbye, cruel world"
